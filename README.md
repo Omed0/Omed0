@@ -14,7 +14,8 @@
 
 # 💻 Skills
 
-<!-- Frontend / Backend / DevOps / Security -->
+<!-- Frontend / Backend / DevOps / Security / SysAdmin -->
+
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -33,11 +34,15 @@
 ![Linux](https://img.shields.io/badge/linux-%23000?style=for-the-badge&logo=linux&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash-%23121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
+![Ansible](https://img.shields.io/badge/ansible-%23000000?style=for-the-badge&logo=ansible&logoColor=white)
+![Proxmox](https://img.shields.io/badge/proxmox-%23E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![Windows Server](https://img.shields.io/badge/windows%20server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Active Directory](https://img.shields.io/badge/active%20directory-003366?style=for-the-badge&logo=microsoft&logoColor=white)
+
 ![Metasploit](https://img.shields.io/badge/metasploit-4E8CDE?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/burp_suite-ff5722?style=for-the-badge&logo=burp-suite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
-![Ansible](https://img.shields.io/badge/ansible-%23000000?style=for-the-badge&logo=ansible&logoColor=white)
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Omed0&theme=dark&include_all_commits=true&count_private=true)
