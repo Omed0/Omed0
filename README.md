@@ -7,10 +7,11 @@
 ⚡ Fun fact: I’m designing my own evolving secret codebook based on Kurdish!
 
 ## 🌐 Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-handle)  
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/404581755337834496)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omed-akram-a645bb227)  
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23121011.svg?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/your-profile)  
-[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://www.hackthebox.com/home/users/profile/your-id)  
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23121011.svg?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/Omed09)  
+[![HackTheBox](upload://tdrn81x2t5rIC7vYU6EBi3IxDHJ.png)](https://app.hackthebox.com/profile/468655)
+
 
 # 💻 Skills
 
