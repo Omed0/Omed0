@@ -1,10 +1,20 @@
 # 💫 About Me
-🔭 I’m currently building a **chunked object storage system** (inspired by S3/MinIO) using Node.js & TypeScript, with Docker Compose for local orchestration.  
-👩‍💻 Full‑Stack both front‑end (React/Next.js) and back‑end (Express, PostgreSQL/MongoDB).  
-🔧 I maintain a multi‑node Kubernetes lab (MicroK8s) with high‑availability, Keepalived, BIND9/DNS, NFS storage, and strong VLAN segmentation.  
-🧑‍💼 Passionate about **DevOps**, **cloud infrastructure**, and **CTF‑style pentesting**—I’ve tackled challenges in ChronoMind, EldoriaNet, HeliosDEX, and more.  
-💬 Feel free to ask me anything about **JavaScript/TypeScript**, **Linux**, **Docker/K8s**, or **cyber‑security**.  
-⚡ Fun fact: I’m designing my own evolving secret codebook based on Kurdish!
+I’m a backend-focused full-stack developer, infrastructure engineer, and active security/CTF researcher.
+My work combines system design, backend architecture, DevOps practices, and hands-on security exploration.
+I enjoy building real systems from scratch, breaking them, fixing them, and understanding how everything works under the hood.
+
+My repositories reflect experience in:
+
+* **Backend & Infrastructure Engineering** – building scalable back-end systems, infrastructure toolkits, storage services, and service-oriented architectures using TypeScript, Node.js, Redis, MinIO, Docker, and modern tooling.
+* **Object Storage & Data Systems** – designing my own chunked, deduplicated object-storage platform inspired by S3/MinIO, focusing on data reliability and performance.
+* **Full-Stack Development** – developing reusable starter kits and clean project architectures using React/Next.js, TypeScript, TanStack, Prisma, and modern web tooling.
+* **Security Research & CTF Challenges** – working on crypto, smart-contract, web-app, and infrastructure security; creating CTF challenge templates; analyzing vulnerabilities; and exploring adversarial techniques.
+* **Developer Tooling & Extensions** – writing libraries, Prisma extensions, infrastructure kits, and reusable components that improve development speed and consistency.
+
+I like solving complex problems, experimenting with new architectures, and applying a security mindset to everything I build.
+Whether it’s backend systems, storage engines, DevOps labs, or CTF challenges — I focus on **clean architecture, reliability, and deep technical understanding**.
+
+⚡ Fun fact: I use containers so much that sometimes I wish life had a docker restart option.
 
 ## 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/404581755337834496)  
