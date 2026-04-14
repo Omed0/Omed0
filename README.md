@@ -50,7 +50,6 @@ Whether it’s backend systems, storage engines, DevOps labs, or CTF challenges 
 ![Ansible](https://img.shields.io/badge/ansible-%23000000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/proxmox-%23E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/windows%20server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Active Directory](https://img.shields.io/badge/active%20directory-003366?style=for-the-badge&logo=microsoft&logoColor=white)
 ![SysAdmin](https://img.shields.io/badge/system%20admin-%23212121?style=for-the-badge&logo=gear&logoColor=white)
 
 ![Metasploit](https://img.shields.io/badge/metasploit-4E8CDE?style=for-the-badge&logo=metasploit&logoColor=white)
