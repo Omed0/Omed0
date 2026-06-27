@@ -6,7 +6,6 @@ I enjoy building real systems from scratch, breaking them, fixing them, and unde
 My repositories reflect experience in:
 
 * **Backend & Infrastructure Engineering** – building scalable back-end systems, infrastructure toolkits, storage services, and service-oriented architectures using TypeScript, Node.js, Redis, MinIO, Docker, and modern tooling.
-* **Object Storage & Data Systems** – designing my own chunked, deduplicated object-storage platform inspired by S3/MinIO, focusing on data reliability and performance.
 * **Full-Stack Development** – developing reusable starter kits and clean project architectures using React/Next.js, TypeScript, TanStack, Prisma, and modern web tooling.
 * **Security Research & CTF Challenges** – working on crypto, smart-contract, web-app, and infrastructure security; creating CTF challenge templates; analyzing vulnerabilities; and exploring adversarial techniques.
 * **Developer Tooling & Extensions** – writing libraries, Prisma extensions, infrastructure kits, and reusable components that improve development speed and consistency.
